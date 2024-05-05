@@ -1,0 +1,9 @@
+/.vscode
+/gotcha_analysis.md
+/gotcha_analysis.pdf
+/gotcha_analysis_files
+/header.tex
+/ipynb_to_pdf.sh
+/latex
+/markov.py
+/transition_matrix.csv
